@@ -11,6 +11,7 @@ public class Java_8_operators_types_Expressions {
 //        int div=a/b;
 //        int mod=a%b;
 //        System.out.println(add+" "+sub+" "+mul+" "+div+" "+mod);
+//        float a=4.8%1.1   //0.4
 
         //Arithmetic Operators
 //        int a=10;
